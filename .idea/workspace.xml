@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d217c1ac-3d8c-4f24-a28c-34759b270fb6" name="Changes" comment="Setting up Database Models">
-      <change afterPath="$PROJECT_DIR$/job_application/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job_application/urls.py" afterDir="false" />
+    <list default="true" id="d217c1ac-3d8c-4f24-a28c-34759b270fb6" name="Changes" comment="Creating a View and a Template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_application/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_application/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +40,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python 20 project/app17-django-form&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Python projects/Django_Form_App/job_application/template&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python projects\Django_Form_App\job_application\template" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python projects\Django_Form_App\.venv\Lib\site-packages\django" />
     </key>
@@ -113,12 +112,32 @@
       <option name="project" value="LOCAL" />
       <updated>1717339056573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating a View and a Template">
+      <option name="closed" value="true" />
+      <created>1717345587355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717345587355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Setting up Database Models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up Database Models" />
+    <MESSAGE value="Creating a View and a Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a View and a Template" />
   </component>
 </project>

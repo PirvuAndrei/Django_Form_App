@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d217c1ac-3d8c-4f24-a28c-34759b270fb6" name="Changes" comment="Customizing the Admin Interface">
+      <change afterPath="$PROJECT_DIR$/job_application/template/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_application/template/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/job_application/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_application/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_application/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -152,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717442007922</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Customizing the Admin Interface">
+      <option name="closed" value="true" />
+      <created>1717443553238</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717443553238</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

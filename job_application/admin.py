@@ -6,6 +6,6 @@ class FormAdmin(admin.ModelAdmin):
     search_fields = ("first_name", "last_name", "email")
     list_filter = ("date", "occupation")
     ordering = ("first_name", )
-    readonly_fields = ("ocupation", )
+    readonly_fields = ("occupation", )
 
 admin.site.register(Form, FormAdmin)

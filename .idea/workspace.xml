@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d217c1ac-3d8c-4f24-a28c-34759b270fb6" name="Changes" comment="Customizing the Admin Interface">
-      <change afterPath="$PROJECT_DIR$/job_application/template/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job_application/template/base.html" afterDir="false" />
+    <list default="true" id="d217c1ac-3d8c-4f24-a28c-34759b270fb6" name="Changes" comment="Creating a Base Template">
+      <change afterPath="$PROJECT_DIR$/job_application/template/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_application/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_application/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_application/template/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/template/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/job_application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/job_application/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_application/views.py" afterDir="false" />
     </list>
@@ -166,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717443553238</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Creating a Base Template">
+      <option name="closed" value="true" />
+      <created>1717446232619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717446232619</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +193,7 @@
     <MESSAGE value="Creatinf a Form Model" />
     <MESSAGE value="Send an Email with Django" />
     <MESSAGE value="Customizing the Admin Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customizing the Admin Interface" />
+    <MESSAGE value="Creating a Base Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a Base Template" />
   </component>
 </project>
